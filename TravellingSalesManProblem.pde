@@ -2,7 +2,7 @@ import java.util.*;
 
 ArrayList<PVector> cities=new ArrayList();
 ArrayList<PVector> bestPath = new ArrayList();
-int totalCities = 50;
+int totalCities = 15;
 int recordDistance;
 
 void setup(){
