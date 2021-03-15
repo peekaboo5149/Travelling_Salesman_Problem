@@ -8,13 +8,6 @@
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
-<!-- code_chunk_output -->
-
-- [Travelling_Salesman_Problem](#travelling_salesman_problem)
-  - [A Proccessing Visualization of TSP](#a-proccessing-visualization-of-tsp)
-
-<!-- /code_chunk_output -->
-
 <br>
 
 <div>
